@@ -3,7 +3,7 @@
 <h2 align="center">📚 Tech Stack </h2>
 <p align="center">
 
-![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white) <br>
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white) 
 </p>
 
 <p align="center">
