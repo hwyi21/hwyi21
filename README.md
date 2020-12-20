@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  
 ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 </p>
